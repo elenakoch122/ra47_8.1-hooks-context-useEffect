@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra47_8.1-hooks-context-useEffect/static/css/main.23d24dec.css",
+    "main.js": "/ra47_8.1-hooks-context-useEffect/static/js/main.b57af41f.js",
+    "static/js/787.76d73af4.chunk.js": "/ra47_8.1-hooks-context-useEffect/static/js/787.76d73af4.chunk.js",
+    "index.html": "/ra47_8.1-hooks-context-useEffect/index.html",
+    "main.23d24dec.css.map": "/ra47_8.1-hooks-context-useEffect/static/css/main.23d24dec.css.map",
+    "main.b57af41f.js.map": "/ra47_8.1-hooks-context-useEffect/static/js/main.b57af41f.js.map",
+    "787.76d73af4.chunk.js.map": "/ra47_8.1-hooks-context-useEffect/static/js/787.76d73af4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d24dec.css",
+    "static/js/main.b57af41f.js"
+  ]
+}
